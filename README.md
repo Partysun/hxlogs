@@ -8,6 +8,8 @@ Install
 
 >`haxelib install log`
 
+![screenshot](screenshot.png)
+
 `haxelib git log git@github.com:Partysun/hxlogs.git`
 
 And then in your project's hxml build file, add
@@ -38,4 +40,4 @@ class Main {
 }
 ```
 
-This gist ( https://gist.github.com/martinwells/5980517 ) is give impulse.
+This gist ( https://gist.github.com/martinwells/5980517 ) gives impulse.
