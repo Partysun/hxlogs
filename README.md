@@ -6,7 +6,9 @@ This *extremely* simple library provides simple and beatifull logging system in 
 Install
 -------
 
-`haxelib install log`
+>`haxelib install log`
+
+`haxelib git log git@github.com:Partysun/hxlogs.git`
 
 And then in your project's hxml build file, add
 
