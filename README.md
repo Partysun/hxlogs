@@ -6,8 +6,6 @@ This *extremely* simple library provides simple and beatifull logging system in 
 Install
 -------
 
->`haxelib install log`
-
 ![screenshot](screenshot.png)
 
 `haxelib git log git@github.com:Partysun/hxlogs.git`
