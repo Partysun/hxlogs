@@ -38,4 +38,4 @@ class Main {
 }
 ```
 
-This gist ( https://gist.github.com/martinwells/5980517 ) is give impulse.
+This gist ( https://gist.github.com/martinwells/5980517 ) gives impulse.
