@@ -8,6 +8,8 @@ Install
 
 >`haxelib install log`
 
+![screenshot](screenshot.png)
+
 `haxelib git log git@github.com:Partysun/hxlogs.git`
 
 And then in your project's hxml build file, add
