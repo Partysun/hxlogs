@@ -1,0 +1,14 @@
+{
+  "name": "log",
+  "license": "MIT",
+  "classPath": "source/",
+  "tags": ["log", "debug"],
+  "description": "",
+  "contributors": ["Partysun"],
+  "releasenote": "Initial",
+  "version": "0.1.0",
+  "url": "https://github.com/Partysun/hxlog",
+  "dependencies": {
+
+  }
+}

@@ -1,0 +1,4 @@
+-neko build/main.n
+-lib log
+-main Main.hx
+-cmd neko build/main.n
